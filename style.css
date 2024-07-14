@@ -7,6 +7,8 @@ effect anim: https://coolcssanimation.com/
 Typo:
 Roboto
 
+Use Cockies for Saving the selected lang;
+
 */
 html {
   height: 100%;
@@ -15,5 +17,6 @@ html {
 :root{
   --bg-color: #FAFAFA;
   --text-color: #000;
+  
   --main-color: #1FF2FF;
 }
