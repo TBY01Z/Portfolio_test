@@ -1,0 +1,19 @@
+/*
+SRC:
+onSroll Show up: https://www.w3schools.com/jsref/event_onscroll.asp
+img paralaxe effect: https://www.w3schools.com/howto/howto_css_parallax.asp
+effect anim: https://coolcssanimation.com/
+
+Typo:
+Roboto
+
+*/
+html {
+  height: 100%;
+  width: 100%;
+}
+:root{
+  --bg-color: #FAFAFA;
+  --text-color: #000;
+  --main-color: #1FF2FF;
+}
